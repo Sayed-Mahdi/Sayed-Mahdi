@@ -6,7 +6,7 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 
 # 👨‍🎓🙋‍♂️ About Me 💼🎒:
 
-🔭 I hold a Masters Degree in applied data science with a specialisation in machine learning, Deep learning & Generative AI from Clarkson University and I have 6+ years of experience building and deploying machine learning and deep learning applications.
+🔭 I hold a Masters Degree in applied data science with a specialisation in machine learning, Deep learning & Generative AI from Clarkson University and I have 5 years of experience building and deploying machine learning and deep learning applications.
 
 I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.
 
