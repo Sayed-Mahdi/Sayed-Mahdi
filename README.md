@@ -1,4 +1,4 @@
-# Hi there, I'm Shankar Gurjar 👋
+# Hi there, I'm Sayed Mahdi 👋
 
 I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.
 
